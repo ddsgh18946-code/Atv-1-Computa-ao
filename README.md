@@ -1,3 +1,5 @@
+Este sistema simula a compra de periféricos em uma loja. A lógica segue este fluxo:Boas-vindas: O sistema exibe uma mensagem de recepção e solicita o nome do cliente.Exibição do Menu: Apresenta uma lista de produtos disponíveis (ex: Mouse, Teclado, Monitor) com seus respectivos preços.Entrada de Dados: * O usuário escolhe o produto pelo número (ID).O usuário informa a quantidade desejada.Processamento e Validação:O sistema verifica se a opção escolhida é válida.Calcula o valor total (Preço Unitário $\times$ Quantidade).Verifica se o cliente tem direito a um "Desconto VIP" (por exemplo, se o valor total for acima de R$ 500,00 e a quantidade de itens for maior que 2).Saída (Recibo): Exibe um resumo detalhado com o nome do cliente, produto, quantidade, subtotal, desconto aplicado e o valor final a pagar.
+
 # Sistema de Vendas Simples - Python v1.0
 
 ## Descrição
